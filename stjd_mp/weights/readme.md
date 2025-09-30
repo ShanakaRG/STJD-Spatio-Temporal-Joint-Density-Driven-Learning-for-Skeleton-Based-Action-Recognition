@@ -1,1 +1,1 @@
-add pretrined weights here
+Add pre-trained weights from MAMP encoder here
